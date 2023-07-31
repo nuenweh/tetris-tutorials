@@ -14,21 +14,24 @@ By far the simplest way to LST stack. The L and S on the 2w is mirrored on the 7
 
 https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/cf330245-07ea-46ca-a1b7-8eacd5519236
 
+Thanks to ![https://jstris.jezevec10.com/ultra?display=5&user=Garbo](Garbo) for the awesome LSJZ replays.
+
 Note that you can place the overhang on either stack. This is in contrast to ST stacking, where the overhang is always forced to be on the 7w.
 
-Here's a map on jstris to instantly jump into practicing LST: https://jstris.jezevec10.com/play/map/79117. It's good to learn how to LST stack from flat top TKI, as that's the opener used in VS Tetris and Ultra. Here's a tool to learn how to LST stack with flat top TKI: https://swng.github.io/cover-visualizer/flattop_lst/
+Here's a map on jstris to instantly jump into practicing LST: https://jstris.jezevec10.com/play/map/79117. It's good to learn how to LST stack from flat top TKI, as that's the opener used in VS Tetris and Ultra. Here's a tool to learn how to LST stack with flat top TKI: https://swng.github.io/cover-visualizer/flattop_lst/. You may also encounter an LST viable board in midgame, pay attention to when you're in a 2-7 or 7-2 board state.
 
-Try not to waste T pieces in the stack. For reasons including: it'll tank your tspin output, it'll make the stack weird, and it's a good skill to build.
+Try not to waste T pieces in the stack. For reasons including: it'll tank your tspin output, it'll change the stack parity. Perfect LST is a good skill to build
 
 ## Fractals
 
 Sometimes, when the queue allows it, you can put both L and J overhangs at the same time, and then an S or Z overhang. This makes a fractal, a very useful setup for spiking.
 
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/d535aff4-9517-4ec5-8e11-e0f63efa0d9e)
+![Fractal](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/d535aff4-9517-4ec5-8e11-e0f63efa0d9e)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@ZgAtHeBtEeglBeAtg0E8glCeg0E8hlAeh0E8Q4CeAt?E8R4AeBtE8glQ4AeAtg0E8JeAgH)
 
 A somewhat common beginner mistake is trying to make a fractal on top of an L/J T spin by placing both S and Z overhangs, like this:
 
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/6f50235c-7f0b-452f-b245-90a1e8bf7410)
+![Magic key imperial cross](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/6f50235c-7f0b-452f-b245-90a1e8bf7410)
 
 Unfortunately, you can't build a fractal that way, it's impossible.
 
@@ -36,27 +39,38 @@ Unfortunately, you can't build a fractal that way, it's impossible.
 
 You can keep adding overhangs to a single side instead of placing the pieces into the stack.  It should look like this:
 
-https://knewjade.github.io/fumen-for-mobile/#?d=v115@BgQ4IeR4HeglQ4HeglIehlHeQ4IeR4HeglQ4Beg0E8?glCeg0E8hlAeh0E8JeAgH
+![Prestacking overhangs](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/b9632abf-cf74-4f77-8277-53508451627b)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@BgQ4IeR4HeglQ4HeglIehlHeQ4IeR4HeglQ4Beg0E8?glCeg0E8hlAeh0E8JeAgH)
 
-This should give you some flexibility when playing, since you now have one more stacking option to consider. However, don't overdo it, more than 2 prestacked overhangs is too much and is very risky, especially in versus.
+This should give you some flexibility when playing, since you now have one more stacking option to consider. However, don't overdo it; more than 2 prestacked overhangs is too much and is very risky, especially in versus.
 
 ## Doubling up
 
-If you do LSJZ for long enough, you should notice that you eventually top out. This is because you need to double up. I cannot stress the importance of it enough, double ups is something every LST user should master. A double up is when you place two pieces on the 2w for just one T spin. This makes the LSJZ higher, letting you take more quads, and lowering the whole board. Mathematically, a double up should be performed every 6.67 T spins on average. If you double up an appropriate amount of times, you should have around 0.857 APP on JStris and Puyo Puyo Tetris.
+If you do LSJZ for long enough, you should notice that you eventually top out. This is because you need to double up. Double ups are something every LST user should master.
 
-With LSJZ, there exist two types of double ups: SS/ZZ, OL/JI
+A double up is when you place two pieces on the 2w for just one T spin. This makes the LSJZ higher, letting you take more quads, and lowering the whole board. Mathematically, a double up should be performed every 6.67 T spins on average. That should have around 0.857 attack per piece on JStris and Puyo Puyo Tetris.
+
+Two conditions need to be met to double up.
+1. Is your stack high enough?
+2. Does the queue allow it?
+
+If either is a "no", your double up will force you to waste a T piece.
+
+With LSJZ, there exist two types of double ups: SS/ZZ, OL/JI. Let's learn more about them.
 
 ### SS double up
 
 SS/ZZ is the most commonly used double up. First, make a T spin with L/J pieces. Next, place an S overhang, and then another one on top. After that, you want to pay close attention to the queue. If you want to 100% succeed, you need a solution where you can stack in a way that ends with Z in hold. I also recommend you to prestack an L overhang to maximize your chances.
 
-https://knewjade.github.io/fumen-for-mobile/#?d=v115@BgglIeglIehlHeQ4IeR4HeR4HeR4HeA8Q4BeG8ywH8?wwG8JeAgH
+![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/54222ca7-52e7-491a-828f-a6262639bc41)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@BgglIeglIehlHeQ4IeR4HeR4HeR4HeA8Q4BeG8ywH8?wwG8JeAgH)
 
-Afterwards, you need to raise the other side by two Z pieces: one from hold, the other from the queue. Thus, your double up is completed.
+Afterwards, you need to raise the other side with two Z pieces: one from hold, the other from the queue. Thus, your double up is completed.
 
-https://knewjade.github.io/fumen-for-mobile/#?d=v115@VgglIeglIehlHeQ4CeAtEeR4AeBtEeR4AeBtEeR4Ae?BtEeA8Q4AeAtF8JeAgH
+![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/0f5f37a0-3615-4d6f-a215-d112a06bab11)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@VgglIeglIehlHeQ4CeAtEeR4AeBtEeR4AeBtEeR4Ae?BtEeA8Q4AeAtF8JeAgH)
 
-Since JZ is just a mirror of LS, you can start doubling up from the ZZ, and after the T spin place the SS.
+Since JZ is just a mirror of LS, you can start doubling up from the ZZ, optionally prestack a J piece, and after the T spin place the SS.
 
 In some cases, you don't need to hold a Z piece, because you have 2 of them in the queue anyway. You may also learn to keep track of the 7 bag system to know if you really need to hold a Z or not.
 
