@@ -33,7 +33,7 @@ Take a look at Reliable TSD and flat top TKI. Both openers are 7-2, meaning that
 
 However, there's one major difference between the two. Flat top TKI uses a Z overhang, while Reliable TSD uses an S overhang. Just like the bag counting rule says, TKI has an S piece in the stack, and Reliable has a Z piece in the stack.
 
-If you use the bag counting rule, you can expand your thinking beyond the queue. You can build reliable TSD if the queue is LIJSO, because you know that you have an upcoming S piece left in the bag. If you practice enough, this method of thinking can be used even in midgame. You can apply the rule to L and J pieces.
+If you use the bag counting rule, you can expand your thinking beyond the queue. You can build reliable TSD if the queue is LIJSO, because you know that you have an upcoming Z piece left in the bag. If you practice enough, this method of thinking can be used even in midgame. You can apply the rule to L and J pieces as well.
 
 When you have a Z dependency in the stack, or if a Z piece is just more convenient than the S piece, use an S overhang, and vice versa.
 
