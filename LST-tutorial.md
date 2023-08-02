@@ -22,6 +22,21 @@ Here's a map on jstris to instantly jump into practicing LST: https://jstris.jez
 
 Try not to waste T pieces in the stack. For reasons including: it'll tank your tspin output, it'll change the stack parity. Perfect LST is a good skill to build
 
+## Basic bag counting
+
+There's a basic bag counting rule when it comes to LSJZ: using a Z overhang gives you an S piece to put on the stack, and vice versa.
+
+Take a look at Reliable TSD and flat top TKI. Both openers are 7-2, meaning that they're similar to LST stacking:
+
+![Reliable TSD](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/e5d4203f-5ae3-4764-b90e-476885cae11a)
+![TKI](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/8cbbda6b-f54c-4090-b461-6ed1c34d34db)
+
+However, there's one major difference between the two. Flat top TKI uses a Z overhang, while Reliable TSD uses an S overhang. Just like the bag counting rule says, TKI has an S piece in the stack, and Reliable has a Z piece in the stack.
+
+If you use the bag counting rule, you can expand your thinking beyond the queue. You can build reliable TSD if the queue is LIJSO, because you know that you have an upcoming Z piece left in the bag. If you practice enough, this method of thinking can be used even in midgame. You can apply the rule to L and J pieces as well.
+
+When you have a Z dependency in the stack, or if a Z piece is just more convenient than the S piece, use an S overhang, and vice versa.
+
 ## Fractals
 
 Sometimes, when the queue allows it, you can put both L and J overhangs at the same time, and then an S or Z overhang. This makes a fractal, a very useful setup for spiking.
