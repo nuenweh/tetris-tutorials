@@ -8,13 +8,16 @@ LST is also good to use as a stacking exercise to polish your fundamentals, sinc
 
 I recommend reading this guide in chunks, and to practice one concept at a time. Learning all of LST and its nuances is hard to grasp in one session. (Editor note: this advice should be applied to learning anything. "Chunking" is a very potent learning strategy, and giving your brain time to process things is crucial for learning)
 
-# The LSJZ
+LST is very very challenging to learn. It requires good stacking fundamentals and being able to use at least 3 queues very well.  If you don't have that, you can just learn how to do it through LST stacking, although there's no guarantee of success.
+I also recommend becoming familiar with ![what T spins are and how to build them](https://www.youtube.com/watch?v=FI39WJqTLvA&pp=ygUXZ2FyYm8ncyB0IHNwaW4gdHV0cm9pYWw%3D).
+
+#  The LSJZ
 
 By far the simplest way to LST stack. The L and S on the 2w is mirrored on the 7w, like this:
 
 https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/cf330245-07ea-46ca-a1b7-8eacd5519236
 
-Thanks to ![https://jstris.jezevec10.com/ultra?display=5&user=Garbo](Garbo) for the awesome LSJZ replays.
+Thanks to ![Garbo](https://jstris.jezevec10.com/ultra?display=5&user=Garbo) for the awesome LSJZ replays.
 
 Note that you can place the overhang on either stack. This is in contrast to ST stacking, where the overhang is always forced to be on the 7w.
 
@@ -44,11 +47,11 @@ Sometimes, when the queue allows it, you can put both L and J overhangs at the s
 ![Fractal](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/d535aff4-9517-4ec5-8e11-e0f63efa0d9e)
 ![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@ZgAtHeBtEeglBeAtg0E8glCeg0E8hlAeh0E8Q4CeAt?E8R4AeBtE8glQ4AeAtg0E8JeAgH)
 
-A somewhat common beginner mistake is trying to make a fractal on top of an L/J T spin by placing both S and Z overhangs, like this:
+A somewhat common beginner mistake is trying to make a fractal with S/Z on top of L/J, like this:
 
 ![Magic key imperial cross](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/6f50235c-7f0b-452f-b245-90a1e8bf7410)
-
-Unfortunately, you can't build a fractal that way, it's impossible.
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@VgglIeglIehlHeQ4CeAtE8R4AeBtE8glQ4AeAtg0E8?glCeg0E8hlAeh0E8JeAgH)
+Unfortunately, you can't build a fractal that way, the only fractal you can make is L/J on top of S/Z.
 
 ## Prestacking overhangs
 
@@ -121,45 +124,55 @@ https://knewjade.github.io/fumen-for-mobile/#?d=v115@vfwhCeg0EewhCeg0Eewhg0Aeh0E
 
 It's "one up", not "level up", by the way.
 
-Overstacking is what happens when you don't double up enough. Your stack becomes higher and higher than LSJZ as time passes, and eventually you top out. While overstack isn't usually dangerous in Ultra and Blitz, it is dangerous in VS Tetris because you are vulnerable to spikes. LSJZ pretty much requires you to have some overstack. This is the reason people have to use TKI to open LST; at the beginning you have no overstack to make LSJZ work.
+Overstacking is what happens when you don't double up enough. Your stack becomes higher and higher than LSJZ as time passes, and eventually you top out. While overstack isn't usually dangerous in Ultra and Blitz, it is dangerous in VS Tetris because you are vulnerable to spikes. LSJZ pretty much requires you to have some overstack. This is the reason people have to use TKI to open LST; with an empty board you have no overstack to make LSJZ work.
 
 A skilled LST user will always have very little overstack, keeping their board very flat. As a result, they have less opportunity to use LSJZ, but a flatter board lets them LST stack while using other pieces instead of JZ to make up for it. It also gives them more freedom when stacking compared to an LSJZ user, which makes fixing mistakes easier. Using alternative overhangs also lets you save I pieces in order to spike or go down.
 
-Every overhang has a height. "Height" of an overhang refers to how much taller it makes the well. 
+Every overhang has a height. "Height" of an overhang refers to how much taller it makes the well. From bottom to top, overhang heights 1, 2, 3, and 4.
 
+![All overhang heights](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/e73e4e03-51d5-48ed-9d4b-d7e0ece38367)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@FfQ4IeR4HeR4HeR4HeglQ4HeglIehlHeRpHeRpHeQ4?IeR4HeglQ4HeglIehlHeA8CeH8AeG8JeAgH)
 
+They're referred to as 1-ups, 2-ups, et cetera. The idea of overhang height is the core of "height difference" - another B2B T spin stacking technique. In LSJZ, L and J are 1-ups, S and Z are 2-ups, OJ and JI are 3-ups, SS, ZZ, II are 4-ups. 5-ups and 6-ups exist as well, but they're never practical.
 
-In LST stacking, there's 4 overhang heights, from 1 to 4. They're referred to as 1-ups, 2-ups, et cetera. The idea of overhang height is the core of "height difference" - another T spin stacking technique. In LSJZ, L and J are 1-ups, S and Z are 2-ups, OJ and JI are 3-ups, SS, ZZ, II are 4-ups. 5-ups and 6-ups exist as well, but they're never practical even with other center wells and it's usually better to make two double ups instead.
+Every 1-up and 2-up other than JZ requires a follow up, because they don't make the J or Z piece completely. Due to how many variations there is to doing it, some call it "freestyling". 1-ups that use a Z overhang are often called "fake J setups", because they're really just replacing a vertical J overhang with the same overhang built with different pieces.
 
-Every 1-up and 2-up other than JZ requires a follow up, because they don't make the J or Z piece completely. Due to how many variations there is to doing it, some call it "freestyling".
+For example, these two are the same shape that you probably used it when solving PCO:
+
+![IO and JL congruents](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/700555bc-02b1-4c1e-947a-753c7674a5c0)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@VgglCeRpDeglCeRpDehlAezhWeglCeg0glDeglCeg0?glDehlAeh0hlMeAgH)
 
 ## I 1-up
 
-Place an I piece flat without moving it. You'll result in an I 1-up, commonly seen in TKI 3. The I piece is missing 2 blocks, marked grey:
+Place an I piece flat without moving it. You'll result in an I 1-up, commonly seen in TKI 3. To make a fake J, fill the 2 grey blocks:
 
-https://knewjade.github.io/fumen-for-mobile/#?d=v115@HhglCeA8EeglywA8EehlwwzhMeAgH
+![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/42b0e5e3-3f41-47ee-b165-6f5cd8858312)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@HhglCeA8EeglywA8EehlwwzhMeAgH)
 
 With a single piece, those grey blocks can only be filled these ways:
 
-https://knewjade.github.io/fumen-for-mobile/#?d=v115@7eglCeilCeglCeglEehlAezhReAtDeglCeBtDeglCe?AtEehlAezhMeglCeg0EeglCei0CehlAezhWeglCeRpDeglC?eRpDehlAezhMeAgH
+![I piece fake J setups](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/c0620552-3830-41fe-aae2-7286f3a3b709)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@7eglCeilCeglCeglEehlAezhReAtDeglCeBtDeglCe?AtEehlAezhMeglCeg0EeglCei0CehlAezhWeglCeRpDeglC?eRpDehlAezhMeAgH)
 
-You want to be extra careful with the L pattern, because you also need an L piece on the 2w. The IZ pattern uses a Z piece, so having an S overhang is advised.
+Note that you need to have something underneath L and Z pieces to make this work. You want to be extra careful with the L pattern, because you also need an L piece on the 2w. The Z pattern uses a Z piece, so having an S overhang is advised.
 
-If you look closely, they're 2-up overhangs, they're just not used as a T spin overhang. You should at least notice the Z 2-up overhang standing there. Once you learn more about 2-up overhangs, look at the picture again.
+If you look closely, they're 2-up overhangs, just not used as a T spin overhang. You should at least notice the Z 2-up overhang standing there. Once you learn more about 2-up overhangs, come back here to be amazed.
 
 ## L 1-up
 
-After the vertical J, this is the easiest 1-up to learn. It's just a flat L piece. You need to fill the grey blocks to make it work.
+After the vertical J, this is the easiest 1-up to learn. It's just a flat L piece. Just like with the I piece, you have 2 grey blocks to fill:
 
-https://knewjade.github.io/fumen-for-mobile/#?d=v115@HhglCeA8EeglCeA8glDehlAeilNeAgH
+![L 1-up](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/5f62a5c6-6196-4ec2-a160-49989622daed)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@HhglCeA8EeglCeA8glDehlAeilNeAgH)
 
 Pretty much the only way to do so is to use a Z 2-up overhang. The same shape is used in the MKO opener.
 
-https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4IeR4CeAtDeglQ4BeBtDeglywAtglDehlwwilNe?AgH
+![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/f2f6d364-d35a-4a2d-9a4b-dfbb5ed0b28e)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4IeR4CeAtDeglQ4BeBtDeglywAtglDehlwwilNe?AgH)
 
 Placing a Z piece to finish the shape is pretty much the only way to . You can also use a 2nd L piece instead, but it's a rare opportunity because of the 7-bag randomizer :
+![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/5482bcd7-766b-4bcb-a6ef-d03c17ef73b6)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4IeR4HeglQ4BeC8CeglCeA8glDehlAeilNeAgH)
 
-https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4IeR4HeglQ4BeC8CeglCeA8glDehlAeilNeAgH
-
-Sometimes it can be dangerous to use, because you also need an L piece as a 1-up on the 2w. Pay attention to the queue so it doesn't happen.
+It is super dangerous, because you'll be using 3 L pieces for a single T spin. You pretty much never need it, but keep it in mind for the rare case that you do.
 
