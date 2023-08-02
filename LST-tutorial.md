@@ -167,12 +167,25 @@ After the vertical J, this is the easiest 1-up to learn. It's just a flat L piec
 
 Pretty much the only way to do so is to use a Z 2-up overhang. The same shape is used in the MKO opener.
 
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/f2f6d364-d35a-4a2d-9a4b-dfbb5ed0b28e)
+![LZ pattern](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/f2f6d364-d35a-4a2d-9a4b-dfbb5ed0b28e)
 ![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4IeR4CeAtDeglQ4BeBtDeglywAtglDehlwwilNe?AgH)
 
 Placing a Z piece to finish the shape is pretty much the only way to . You can also use a 2nd L piece instead, but it's a rare opportunity because of the 7-bag randomizer :
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/5482bcd7-766b-4bcb-a6ef-d03c17ef73b6)
+![LL pattern](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/5482bcd7-766b-4bcb-a6ef-d03c17ef73b6)
 ![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4IeR4HeglQ4BeC8CeglCeA8glDehlAeilNeAgH)
 
 It is super dangerous, because you'll be using 3 L pieces for a single T spin. You pretty much never need it, but keep it in mind for the rare case that you do.
 
+## 180 J 1-up
+
+This is just a J piece, but it's upside down instead of vertical.
+
+![180 J 1-up](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/2507a611-4af3-480f-906b-a499334cd14a)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@3gA8IeA8Hei0DeA8CeA8g0F8AeG8JeAgH)
+
+Honestly, this is just the I piece 1-up, just build with a J piece instead.
+
+All the patterns are the same, here are they as a refresher:
+
+![J piece L J O](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/8f776e46-3aa4-40b1-bcda-17c8a3443e05)
+![J piece Z](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/138ccecf-103d-44ce-af70-c99207775f17)
