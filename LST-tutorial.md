@@ -146,8 +146,8 @@ For example, these two are the same shape that you probably used it when solving
 
 Place an I piece flat without moving it. You'll result in an I 1-up, commonly seen in TKI 3. To make a fake J, fill the 2 grey blocks:
 
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/42b0e5e3-3f41-47ee-b165-6f5cd8858312)
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@HhglCeA8EeglywA8EehlwwzhMeAgH)
+![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/dcebe665-287e-4ac5-9faf-44b087150276)
+![]([https://knewjade.github.io/fumen-for-mobile/#?d=v115@HhglCeA8EeglywA8EehlwwzhMeAgH](https://knewjade.github.io/fumen-for-mobile/#?d=v115@HhglCeA8EeglCeA8EehlAezhMeAgH))
 
 With a single piece, those grey blocks can only be filled these ways:
 
@@ -160,7 +160,7 @@ If you look closely, they're 2-up overhangs, just not used as a T spin overhang.
 
 ## L 1-up
 
-After the vertical J, this is the easiest 1-up to learn. It's just a flat L piece. Just like with the I piece, you have 2 grey blocks to fill:
+After the vertical J, this is the easiest 1-up to learn. It's just a flat L piece. Just like with the I piece, you need a 2-up to make a fake J:
 
 ![L 1-up](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/5f62a5c6-6196-4ec2-a160-49989622daed)
 ![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@HhglCeA8EeglCeA8glDehlAeilNeAgH)
@@ -183,9 +183,44 @@ This is just a J piece, but it's upside down instead of vertical.
 ![180 J 1-up](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/2507a611-4af3-480f-906b-a499334cd14a)
 ![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@3gA8IeA8Hei0DeA8CeA8g0F8AeG8JeAgH)
 
-Honestly, this is just the I piece 1-up, just build with a J piece instead.
+Honestly, this is just the I piece 1-up, just built with a J piece instead.
 
 All the patterns are the same, here are they as a refresher:
 
 ![J piece L J O](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/8f776e46-3aa4-40b1-bcda-17c8a3443e05)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@/eilGeglHei0DeA8CeA8g0F8AeG8NewhIeyhFei0De?A8CeA8g0F8AeG8NeRpHeRpGei0DeA8CeA8g0F8AeG8JeAgH)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@ugAtHeBtHeAtHei0DeA8CeA8g0F8AeG8JeAgH])
+
 ![J piece Z](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/138ccecf-103d-44ce-af70-c99207775f17)
+
+## S 1-up
+
+This one is inherently dangerous, because it's an S overhang for an S/Z T spin. Because of this, it's mainly used as a prestacked overhang, or as an overhang to fix the height difference after executing the S/Z T spin.
+
+It's also a very special 1-up.
+
+![S 1-up](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/ff7b72d1-0580-48b1-9ad1-125bb44f6728)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@HhglCeA8EeglCeR4DehlAeR4E8JeAgH)
+
+Unlike the other overhangs, you need a 1-up instead of a 2-up to make a fake J. Here's how the fake J looks like when finished:
+
+![SJ](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/9eb847cb-9548-456c-9862-fbbf643aa434)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@4gg0Ieg0DeglCeh0DeglCeR4DehlAeR4E8JeAgH)
+
+![SI](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/7f37b959-60c8-4241-8529-df97cf87c8a4)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@HhglCezhBeglCeR4DehlAeR4E8JeAgH)
+
+![SL](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/d9f539cb-09bf-4171-a62a-9433e94069f7)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@DhglCeglCeilCeglCeR4DehlAeR4E8JeAgH)
+
+![S 180J](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/5294be45-7af2-4864-892e-8e4e6ce379a4)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@HhglCei0CeglCeR4g0CehlAeR4E8JeAgH)
+
+![SS](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/77053542-5377-4d63-88ce-bd255c05f621)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@ChR4CeglCeR4DeglCeR4DehlAeR4E8JeAgH)
+
+The SL fake J is really not a good board state to be in. And, just like the LL fake J, SS fake J is rarely used because you need 3 S pieces to make it.
+
+## Fake S 1-ups
+
+To be continued
