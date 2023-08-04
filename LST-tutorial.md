@@ -1,4 +1,4 @@
-# What is LST?
+# Preface
 
 LST is a guideline 2-7 stacking strategy that can efficiently output a B2B T-spin every bag, and last as long as the player wants. The 2w stack, (in this case, the left stack) will always consist of the L, S, and T pieces. Hence the name LST.
 
@@ -6,10 +6,11 @@ https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/21475df2-
 
 LST is also good to use as a stacking exercise to polish your fundamentals, since it requires you to use your queue very efficiently to sustain it for long. Mirrored 7-2 stacking, is called "JZT". You should practice both to reduce any awkwardness.
 
-I recommend reading this guide in chunks, and to practice one concept at a time. Learning all of LST and its nuances is hard to grasp in one session. (Editor note: this advice should be applied to learning anything. "Chunking" is a very potent learning strategy, and giving your brain time to process things is crucial for learning)
+I recommend reading this guide in chunks, and to practice one concept at a time. Learning all of LST and its nuances is hard to grasp in one session. (Editor note: this advice should be applied to learning anything. "Chunking" is a very potent learning strategy, and giving your brain time to process things is crucial for learning). Another good learning/gaming habits are taking short breaks every 20-25 minutes, and doing replay reviews. Both will 
 
-LST is very very challenging to learn. It requires good stacking fundamentals and being able to use at least 3 queues very well.  If you don't have that, you can just learn how to do it through LST stacking, although there's no guarantee of success.
-I also recommend becoming familiar with ![what T spins are and how to build them](https://www.youtube.com/watch?v=FI39WJqTLvA&pp=ygUXZ2FyYm8ncyB0IHNwaW4gdHV0cm9pYWw%3D).
+First and foremost, LST is about preventing bad board states altogether, and there's little to no leeway for mistakes or fixing them. This makes LST very very challenging to learn. It requires good stacking fundamentals and being able to visualize 3 pieces at the same time.  If you don't have that ability, you can just start doing LST and "grow into it" with practice, but there's no guarantee of success. I also suggest becoming familiar with ![what T spins are and how to build them](https://www.youtube.com/watch?v=FI39WJqTLvA&pp=ygUXZ2FyYm8ncyB0IHNwaW4gdHV0cm9pYWw%3D).
+
+Follow the tutorial religiously. Don't try T spin overhangs that aren't mentioned, because they'll ruin everything.
 
 #  The LSJZ
 
@@ -98,15 +99,18 @@ With this, now you know how to LST stack forever. As long as you double up often
 
 Instead of using two S or two Z pieces, you can use two I pieces instead. Like this:
 
-https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4CewhEeR4AexhEeR4AexhEeR4AexhEeglQ4Aewh?g0OeAgH
+![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/2b1d43b8-ee65-483d-8f0e-ebb489d02f46)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4CewhEeR4AexhEeR4AexhEeR4AexhEeglQ4Aewh?g0OeAgH)
 
 The first advantage of it is that you can place one i piece before the T spin is executed without it affecting the T slot access. Thus, you don't need to have an I piece in hold, you can simply place it right away, like this:
 
-https://knewjade.github.io/fumen-for-mobile/#?d=v115@fgQ4CewhEeR4BewhEeR4BewhEeR4BewhEeglQ4Beg0?EeglCeg0E8hlAeh0E8JeAgH
+![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/15e73a8f-ef75-4db1-a4ef-337b3b81ddca)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@fgQ4CewhEeR4BewhEeR4BewhEeR4BewhEeglQ4Beg0?EeglCeg0E8hl!Aeh0E8JeAgH)
 
 The other advantage is that it can not only replace the ZZ double up, but also the SS double up:
 
-https://knewjade.github.io/fumen-for-mobile/#?d=v115@Fgg0Ieg0Heh0EewhCeAtEewhBeBtEewhBeBtEewhBe?BtEeglBeAtg0EeglCeg0E8hlAeh0E8JeAgH
+![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/d15efb5f-f34f-45cb-9b58-0d754eba68b0)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@Fgg0Ieg0Heh0EewhCeAtEewhBeBtEewhBeBtEewhBe?BtEeglBeAtg0EeglCeg0E8hlAeh0E8JeAgH)
 
 This makes it more flexible to use than SS or ZZ, with the only caveat being that you can't use vertical I pieces as the overhang.
 
@@ -114,11 +118,13 @@ This makes it more flexible to use than SS or ZZ, with the only caveat being tha
 
 With the OL double up, one side has an O piece overhang. After the T spin is executed, the other side gets an O piece as well. Afterwards, place L and J on the O pieces like usual.
 
-https://knewjade.github.io/fumen-for-mobile/#?d=v115@HhQ4CeAtE8R4AeBtE8glQ4AeAtg0E8JeAgHvhDAgHT?6IAgHFFJzgRpHeRpHeAtwSBeAtE8BtAeBtE8TeFFJvhIAgH?AgHzFJAgHe8IAgHK6IAgHAgH (pls animate)
+![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/30dc1053-d5b6-4308-9c4d-de3fbdf20247)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@HhQ4CeAtE8R4AeBtE8glQ4AeAtg0E8JeAgHvhDAgHT?6IAgHFFJzgRpHeRpHeAtwSBeAtE8BtAeBtE8TeFFJvhIAgH?AgHzFJAgHe8IAgHK6IAgHAgH)
 
 The JI and LI double ups are the same shapes as OL and OJ double ups respectively.
 
-https://knewjade.github.io/fumen-for-mobile/#?d=v115@vfwhCeg0EewhCeg0Eewhg0Aeh0Eewhg0AeRpEeh0Ae?RpYeglCewhEeglCewhEehlAeglwhEeRpAeglwhEeRpAehlL?eA8AgH
+![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/093edcb6-5155-4da7-9cd0-bb729944c83d)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@vfwhCeg0EewhCeg0Eewhg0Aeh0Eewhg0AeRpEeh0Ae?RpYeglCewhEeglCewhEehlAeglwhEeRpAeglwhEeRpAehlL?eA8AgH)
 
 # 1-up overhangs
 
@@ -223,4 +229,10 @@ The SL fake J is really not a good board state to be in. And, just like the LL f
 
 ## Fake S 1-ups
 
-To be continued
+There's more patterns for the 180 J and I piece 1-ups. Those are called "fake S setups". They're called that way because they're alternate builds for the S 1-up shape.
+
+To build a fake S is to build a 1-up on top of another 1-up. Like this:
+
+![180 J and I fake S](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/05a01bc1-4860-44ef-9c5f-47bcd60f619d)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@VgglIeglCeA8EehlAezhQeA8Hei0DeA8CeA8g0F8Ae?G8JeAgH)
+
