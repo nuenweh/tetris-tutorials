@@ -231,8 +231,22 @@ The SL fake J is really not a good board state to be in. And, just like the LL f
 
 There's more patterns for the 180 J and I piece 1-ups. Those are called "fake S setups". They're called that way because they're alternate builds for the S 1-up shape.
 
-To build a fake S is to build a 1-up on top of another 1-up. Like this:
+To build a fake S, build a 1-up, and then another 1-up as if you're building an S piece fake J. Like this:
 
-![180 J and I fake S](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/05a01bc1-4860-44ef-9c5f-47bcd60f619d)
-[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@VgglIeglCeA8EehlAezhQeA8Hei0DeA8CeA8g0F8Ae?G8JeAgH)
+![Fake S](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/75105e9f-e092-4fb9-b285-5da2327765ec)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@ZfQ4IeR4HeglQ4HeglCexwDehlAezhWeQ4IeR4Hegl?Q4HeglCexwDehlAei0DeA8CeA8g0F8AeG8JeAgH)
+
+The second 1-up is marked purple.
+You can only make a fake S with an I or a 180 J 1-up:
+![I piece fake S](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/319f7c0a-2de2-4981-9c07-a33bc3e36854)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@FfglDeR4CeglCeR4D8hlAezhC8Oeg0DeglDeg0Degl?Ceh0D8hlAezhC8JeglIeglCezhB8hlAezhC8JeglEeglCeg?lCeilC8hlAezhC8JeAgH)
+
+Note that you can't really make a fake J from IS and IJ fake S, so avoid them for now until you read on the SO 2-up overhang.
+
+The 180 J 1-up shares all of the above ways to build a fake S, and has one more:
+
+![Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/862cb5ed-41d7-4597-95ff-4262295696b1)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgglIeglCei0CehlAej0CeA8CeA8g0F8AeG8JeAgH)
+
+The fake S 1-ups also happen to be all the ways to build 3w floating T spins in the game.
 
