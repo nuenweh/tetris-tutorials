@@ -126,7 +126,7 @@ The JI and LI double ups are the same shapes as OL and OJ double ups respectivel
 ![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/093edcb6-5155-4da7-9cd0-bb729944c83d)
 ![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@vfwhCeg0EewhCeg0Eewhg0Aeh0Eewhg0AeRpEeh0Ae?RpYeglCewhEeglCewhEehlAeglwhEeRpAeglwhEeRpAehlL?eA8AgH)
 
-# 1-up overhangs
+# Alt 1-up overhangs
 
 It's "one up", not "level up", by the way.
 
@@ -225,7 +225,7 @@ Unlike the other overhangs, you need a 1-up instead of a 2-up to make a fake J. 
 ![SS](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/77053542-5377-4d63-88ce-bd255c05f621)
 ![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@ChR4CeglCeR4DeglCeR4DehlAeR4E8JeAgH)
 
-The SL fake J is really not a good board state to be in. And, just like the LL fake J, SS fake J is rarely used because you need 3 S pieces to make it.
+The SL fake J is really not a good board state to be in. And, just like the LL fake J, the SS fake J is rarely used because you need 3 S pieces to make it.
 
 ## Fake S 1-ups
 
@@ -238,6 +238,7 @@ To build a fake S, build a 1-up, and then another 1-up as if you're building an 
 
 The second 1-up is marked purple.
 You can only make a fake S with an I or a 180 J 1-up:
+
 ![I piece fake S](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/319f7c0a-2de2-4981-9c07-a33bc3e36854)
 [](https://knewjade.github.io/fumen-for-mobile/#?d=v115@FfglDeR4CeglCeR4D8hlAezhC8Oeg0DeglDeg0Degl?Ceh0D8hlAezhC8JeglIeglCezhB8hlAezhC8JeglEeglCeg?lCeilC8hlAezhC8JeAgH)
 
@@ -245,8 +246,23 @@ Note that you can't really make a fake J from IS and IJ fake S, so avoid them fo
 
 The 180 J 1-up shares all of the above ways to build a fake S, and has one more:
 
-![Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/862cb5ed-41d7-4597-95ff-4262295696b1)
+![JJ 1-up fake S](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/862cb5ed-41d7-4597-95ff-4262295696b1)
 [](https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgglIeglCei0CehlAej0CeA8CeA8g0F8AeG8JeAgH)
 
-The fake S 1-ups also happen to be all the ways to build 3w floating T spins in the game.
+The fake S 1-ups also happen to be all the ways to build 3-wide floating T spins in the game.
 
+## Tucking the Z overhang
+
+You can prestack a 1-up overhang and then tuck a Z piece underneath. Vertical J is the only overhang that doesn't allow it
+
+The finesse is DAS left, press and hold soft drop, DAS right, clockwise rotation, release soft drop.
+
+![Z tuck](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/74d597c5-28fa-43ac-af1c-f5044b93c21a)
+
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@sgzhD8DeG8CeG8BeH8AeI8AeG8JeAgHIfBtIeBtZgA?gHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgA?PAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gAPAeAt?HeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHkgglGeyhQ4GeA?PHeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtAeBPZgAg?HFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3eAgHqgBP?HeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1gBPAtReA?tjeAgHvhAAgHjgQ4wwGexwg0HeAPHeBPHeAPjeAgHIfBtIe?BtZgAgHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eA?gHpgAPAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gA?PAeAtHeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHjgxDGeRa?gWHeAPgWGeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtA?eBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3e?AgHqgBPHeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1g?BPAtReAtjeAgHvhAAgH)
+
+# Alt 2-up overhangs
+
+The alt 2-up overhangs are ways to build a fake Z overhang. However, just like alt 1-ups, they require a certain follow up to be useful.
+
+## 
