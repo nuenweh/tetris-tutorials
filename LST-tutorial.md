@@ -272,4 +272,47 @@ Also, instead of executing the S/Z T spin, you can build an L/J T spin on top, t
 
 The alt 2-up overhangs are ways to build a fake Z overhang. However, just like alt 1-ups, every 2-up requires a follow up, or else the Z shape will be incomplete.
 
-## 
+## Flat top overhang
+
+![Flat top overhang](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/43d31954-bbc5-40cf-95b9-8baa1eeb9b06)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@AhilDeglBeglC8CeglCeF8hlAeG8JeAgH)
+
+It's called a flat top overhang because the flat top TKI is the same shape, but built with ZJ instead:
+
+![Flat top TKI](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/cf353ecf-e8be-4a95-bdbc-4166bda777ec)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@Ahi0DeglBeBtg0Q4CeglCeBtR4RphlAezhQ4RpJeAg?H)
+
+To fill the fake Z, you need a 1-up in the correct spot. It's very similar to how you build a fake J from an S 1-up:
+
+![Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/dc1335fd-3edc-4c00-a079-cbc6a8239be2)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@BgglCexwDeglCeR4D8hlAeR4E8XexwGeilD8glBegl?F8glCeF8hlAeG8JeAgH)
+
+# Soon ™️
+
+# Height difference or how you can use LST for 5-4 and 6-3
+
+# Advanced stuff
+
+## Tucking the Z overhang
+
+You can prestack a 1-up overhang and then tuck a Z piece underneath. Vertical J is the only overhang that doesn't allow it
+
+The finesse is DAS left, press and hold soft drop, DAS right, clockwise rotation, release soft drop.
+
+![Z tuck](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/74d597c5-28fa-43ac-af1c-f5044b93c21a)
+
+It's very useful when following up the MKO opener.
+
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@sgzhD8DeG8CeG8BeH8AeI8AeG8JeAgHIfBtIeBtZgA?gHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgA?PAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gAPAeAt?HeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHkgglGeyhQ4GeA?PHeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtAeBPZgAg?HFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3eAgHqgBP?HeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1gBPAtReA?tjeAgHvhAAgHjgQ4wwGexwg0HeAPHeBPHeAPjeAgHIfBtIe?BtZgAgHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eA?gHpgAPAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gA?PAeAtHeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHjgxDGeRa?gWHeAPgWGeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtA?eBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3e?AgHqgBPHeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1g?BPAtReAtjeAgHvhAAgH)
+
+Also, instead of executing the S/Z T spin, you can build an L/J T spin on top, then clear it, and only then tuck the Z piece. This setup is called a "delayed fractal". Below a Z overhang is used, but you can really use an S overhang as well.
+
+![Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/5d7e328c-5b9f-49b2-980c-238835f8c1b7)
+
+## Floats
+
+## ST stacking
+
+## Donos
+
+## Using LST knowledge for building quads
