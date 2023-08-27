@@ -164,7 +164,7 @@ Note that you need to have something underneath L and Z pieces to make this work
 
 If you look closely, they're 2-up overhangs, just not used as a T spin overhang. You should at least notice the Z 2-up overhang standing there. Once you learn more about 2-up overhangs, come back here to be amazed.
 
-## L 1-up
+## Flat L 1-up
 
 After the vertical J, this is the easiest 1-up to learn. It's just a flat L piece. Just like with the I piece, you need a 2-up to make a fake J:
 
@@ -287,6 +287,63 @@ To fill the fake Z, you need a 1-up in the correct spot. It's very similar to ho
 ![Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/dc1335fd-3edc-4c00-a079-cbc6a8239be2)
 ![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@BgglCexwDeglCeR4D8hlAeR4E8XexwGeilD8glBegl?F8glCeF8hlAeG8JeAgH)
 
+The L 2-up can be used not only to make an overhang, but also to fix height difference. Most 2-up alt overhangs cannot do that; they force the overhang to be on the 7-wide stack.
+### Z 1-up
+
+This is one more 1-up. It doesn't occur in LSJZ, because it's only used for the flat top overhang.
+
+![Z 1-up](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/726d2223-2e5b-46bf-bc1c-b1551e6e986c)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@3gwwIewwHeBtEeA8CeBtDeB8AeG8JeAgH)
+
+The easiest pattern for fake J is with an S piece, like this:
+
+![ZS pattern](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/9abea529-ab0c-4164-9e81-b6d544e14f08)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@3gQ4IeR4GeBtQ4DeA8CeBtDeB8AeG8JeAgH)
+
+It's not the only one, and I recommend not fixating on it too much. 
+
+When you do a 2-up in this spot, the pattern becomes a similar shape to flat L 1-up:
+
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@sewwGeBtwwDeA8CeBtDeB8AeG8OeQ4GeBtR4CeA8Ce?BtQ4CeB8AeG8Oeg0GeBti0BeglCeBtDehlAeG8OeRpFeBtR?pCeA8CeBtDeB8AeG8JeAgH)
+![Z and 2-up](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/20eaa9e0-9ceb-44c2-a425-e939a4d609f4)
+
+Doing a 1-up in this spot makes a shape similar to 180 J/flat I. Another Z and an I piece are used as an example.
+
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@6fBtwwDeA8CeBtDeB8AeG8MeBtxwCeA8CeBtxwBeB8?AeG8MeBtzhAeA8CeBtDeB8AeG8JeAgH)
+![Z and 1-up](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/5680f3f2-36df-427a-bffe-6d1abf793dd1)
+
+If you place another Z piece like this, it becomes a fake S 1-up:
+
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@BhxwGeBtxwCeA8CeBtDeB8AeG8JeAgH)
+![ZZ pattern](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/46553845-eeee-4310-b637-a9d348e29e14)
+
+## Fonzie overhang
+
+This overhang can be seen in the Fonzie TKI variation. It's the Z 1-up, except used in a place where a 2-up is required:
+
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@EhA8BeA8BeBtAeE8CeBtF8AeG8JeAgH)
+![Fonzie TKI](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/2995669d-6e75-40aa-a1a8-eb0f81a1755f)
+
+This overhang needs an S piece to become a proper 2-up.
+
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4CeR4DeR4AeR4EeA8Q4AeBtEeA8CeBtDeB8AeG8?JeAgH)
+![ZS 2-up pattern](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/2db5071b-0e69-4812-9b56-4dcd5f495f26)
+
+However, this is rarely an option due to 7-bag. You can do it sometimes, but it's usually better if you don't, especially so for bag counting. Because of this, a fake S is almost always used instead.
+
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@7fwwHezhCeA8BeBtEeA8CeBtDeB8AeG8NewwHei0De?A8BeBtg0DeA8CeBtDeB8AeG8JeAgH)
+![Z and Fake S](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/609a3119-c898-4b44-862d-1f9234689d6e)
+
+You can also view these follow ups as doing a 180 J/flat I 1-up to turn the setup into a flat top overhang.
+
+## Kazu overhang
+
+Kazu overhang isn't called after the player, but after the opener it's used in, Kazu TKI/Kazu TSD. I could probably name it "S 2-up", but it would create confusion with the S 2-up used in LSJZ.
+
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@AhQ4FeglBeR4RpBtAeglCeQ4Rpg0BthlAezhi0JeAg?H)
+![Kazu TKI](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/62f86b14-61ed-4e15-838d-28c517e151a8)
+
+Need to finish writing this ong
 # Soon ™️
 
 # Height difference or how you can use LST for 5-4 and 6-3
