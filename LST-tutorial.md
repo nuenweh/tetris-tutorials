@@ -251,21 +251,7 @@ The 180 J 1-up shares all of the above ways to build a fake S, and has one more:
 
 The fake S 1-ups also happen to be all the ways to build 3-wide floating T spins in the game.
 
-## Tucking the Z overhang
 
-You can prestack a 1-up overhang and then tuck a Z piece underneath. Vertical J is the only overhang that doesn't allow it
-
-The finesse is DAS left, press and hold soft drop, DAS right, clockwise rotation, release soft drop.
-
-![Z tuck](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/74d597c5-28fa-43ac-af1c-f5044b93c21a)
-
-It's very useful when following up the MKO opener.
-
-[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@sgzhD8DeG8CeG8BeH8AeI8AeG8JeAgHIfBtIeBtZgA?gHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgA?PAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gAPAeAt?HeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHkgglGeyhQ4GeA?PHeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtAeBPZgAg?HFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3eAgHqgBP?HeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1gBPAtReA?tjeAgHvhAAgHjgQ4wwGexwg0HeAPHeBPHeAPjeAgHIfBtIe?BtZgAgHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eA?gHpgAPAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gA?PAeAtHeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHjgxDGeRa?gWHeAPgWGeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtA?eBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3e?AgHqgBPHeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1g?BPAtReAtjeAgHvhAAgH)
-
-Also, instead of executing the S/Z T spin, you can build an L/J T spin on top, then clear it, and only then tuck the Z piece. This setup is called a "delayed fractal". Below a Z overhang is used, but you can really use an S overhang as well.
-
-![Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/5d7e328c-5b9f-49b2-980c-238835f8c1b7)
 
 
 # Alt 2-up overhangs
@@ -360,7 +346,7 @@ The finesse is DAS left, press and hold soft drop, DAS right, clockwise rotation
 
 It's very useful when following up the MKO opener.
 
-[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@sgzhD8DeG8CeG8BeH8AeI8AeG8JeAgHIfBtIeBtZgA?gHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgA?PAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gAPAeAt?HeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHkgglGeyhQ4GeA?PHeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtAeBPZgAg?HFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3eAgHqgBP?HeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1gBPAtReA?tjeAgHvhAAgHjgQ4wwGexwg0HeAPHeBPHeAPjeAgHIfBtIe?BtZgAgHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eA?gHpgAPAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gA?PAeAtHeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHjgxDGeRa?gWHeAPgWGeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtA?eBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3e?AgHqgBPHeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1g?BPAtReAtjeAgHvhAAgH)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@sgzhD8DeG8CeG8BeH8AeI8AeG8JeAgHIfBtIeBtZgA?gHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgA?PAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gAPAeAt?HeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHkgglGeyhQ4GeA?PHeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtAeBPZgAg?HFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3eAgHqgBP?HeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1gBPAtReA?tjeAgHvhAAgHjgQ4wwGexwg0HeAPHeBPHeAPjeAgHIfBtIe?BtZgAgHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eA?gHpgAPAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gA?PAeAtHeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHjgxDGeRa?gWHeAPgWGeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtA?eBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3e?AgHqgBPHeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1g?BPAtReAtjeAgHvhAAgH)
 
 Also, instead of executing the S/Z T spin, you can build an L/J T spin on top, then clear it, and only then tuck the Z piece. This setup is called a "delayed fractal". Below a Z overhang is used, but you can really use an S overhang as well.
 
