@@ -329,7 +329,23 @@ Kazu overhang isn't called after the player, but after the opener it's used in, 
 ![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@AhQ4FeglBeR4RpBtAeglCeQ4Rpg0BthlAezhi0JeAg?H)
 ![Kazu TKI](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/62f86b14-61ed-4e15-838d-28c517e151a8)
 
-Need to finish writing this ong
+Kazu overhang needs a 2-up to be filled.
+
+![Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/8ab7ec7c-0e91-4ca9-a194-44d9b7f59571)
+
+Any 2-up you already know works:
+
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4CeRpDeR4AeQ4RpDeglQ4AeR4EeglCeQ4EehlAe?G8JeAgH3gQpwSHeRpg0qeAgH3gAPhlGeAPhHqeAgHugAtHe?hlgWGeglseAgHugAPDewDCewhAPDexDBewhwwEewDCewwhe?AgH)
+![Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/7aad74c4-e8a0-4d4c-aed3-c2ab1f91bbc1)
+
+# S and fake S overhangs
+
+## O (Flat Top)
+
+## J (Kazu)
+
+## L (Fonzie)
+
 # Soon ™️
 
 # Height difference or how you can use LST for 5-4 and 6-3
