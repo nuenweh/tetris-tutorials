@@ -8,7 +8,7 @@ LST is also good to use as a stacking exercise to polish your fundamentals, sinc
 
 I recommend reading this guide in chunks, and to practice one concept at a time. Learning all of LST and its nuances is hard to grasp in one session. (Editor note: this advice should be applied to learning anything. "Chunking" is a very potent learning strategy, and giving your brain time to process things is crucial for learning). Another good learning/gaming habits are taking short breaks every 20-25 minutes, and doing replay reviews. Both will 
 
-First and foremost, LST is about preventing bad board states altogether, and there's little to no leeway for mistakes or fixing them. This makes LST very very challenging to learn. It requires good stacking fundamentals and being able to visualize 3 pieces at the same time.  If you don't have that ability, you can just start doing LST and "grow into it" with practice, but there's no guarantee of success. I also suggest becoming familiar with ![what T spins are and how to build them](https://www.youtube.com/watch?v=FI39WJqTLvA&pp=ygUXZ2FyYm8ncyB0IHNwaW4gdHV0cm9pYWw%3D).
+First and foremost, LST is about preventing bad board states altogether, and there's little to no leeway for mistakes or fixing them. This makes LST very very challenging to learn. It requires good stacking fundamentals and being able to visualize 3 pieces at the same time.  If you don't have that ability, you can just start doing LST and "grow into it" with practice, but there's no guarantee of success. I also suggest becoming familiar with [what T spins are and how to build them](https://www.youtube.com/watch?v=FI39WJqTLvA&pp=ygUXZ2FyYm8ncyB0IHNwaW4gdHV0cm9pYWw%3D).
 
 Follow the tutorial religiously. Don't try T spin overhangs that aren't mentioned, because they'll ruin everything.
 
@@ -18,7 +18,7 @@ By far the simplest way to LST stack. The L and S on the 2w is mirrored on the 7
 
 https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/cf330245-07ea-46ca-a1b7-8eacd5519236
 
-Thanks to ![Garbo](https://jstris.jezevec10.com/ultra?display=5&user=Garbo) for the awesome LSJZ replays.
+Thanks to [Garbo](https://jstris.jezevec10.com/ultra?display=5&user=Garbo) for the awesome LSJZ replays.
 
 Note that you can place the overhang on either stack. This is in contrast to ST stacking, where the overhang is always forced to be on the 7w.
 
@@ -30,20 +30,20 @@ Try not to waste T pieces in the stack. For reasons including: it'll tank your t
 
 Sometimes, when the queue allows it, you can put both L and J overhangs at the same time, and then an S or Z overhang. This makes a fractal, a very useful setup for spiking.
 
-![Fractal](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/d535aff4-9517-4ec5-8e11-e0f63efa0d9e)
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@ZgAtHeBtEeglBeAtg0E8glCeg0E8hlAeh0E8Q4CeAt?E8R4AeBtE8glQ4AeAtg0E8JeAgH)
+Fractal](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/d535aff4-9517-4ec5-8e11-e0f63efa0d9e)
+](https://knewjade.github.io/fumen-for-mobile/#?d=v115@ZgAtHeBtEeglBeAtg0E8glCeg0E8hlAeh0E8Q4CeAt?E8R4AeBtE8glQ4AeAtg0E8JeAgH)
 
 A somewhat common beginner mistake is trying to make a fractal with S/Z on top of L/J, like this:
 
-![Magic key imperial cross](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/6f50235c-7f0b-452f-b245-90a1e8bf7410)
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@VgglIeglIehlHeQ4CeAtE8R4AeBtE8glQ4AeAtg0E8?glCeg0E8hlAeh0E8JeAgH)
+Magic key imperial cross](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/6f50235c-7f0b-452f-b245-90a1e8bf7410)
+](https://knewjade.github.io/fumen-for-mobile/#?d=v115@VgglIeglIehlHeQ4CeAtE8R4AeBtE8glQ4AeAtg0E8?glCeg0E8hlAeh0E8JeAgH)
 Unfortunately, you can't build a fractal that way, the only fractal you can make is L/J on top of S/Z.
 
 ## Prestacking overhangs
 
 You can keep adding overhangs to a single side instead of placing the pieces into the stack.  It should look like this:
 
-![Prestacking overhangs](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/b9632abf-cf74-4f77-8277-53508451627b)
+Prestacking overhangs](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/b9632abf-cf74-4f77-8277-53508451627b)
 ![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@BgQ4IeR4HeglQ4HeglIehlHeQ4IeR4HeglQ4Beg0E8?glCeg0E8hlAeh0E8JeAgH)
 
 This should give you some flexibility when playing, since you now have one more stacking option to consider. However, don't overdo it; more than 2 prestacked overhangs is too much and is very risky, especially in versus.
@@ -261,17 +261,17 @@ The alt 2-up overhangs are ways to build a fake Z overhang. However, just like a
 ## Flat top overhang
 
 ![Flat top overhang](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/43d31954-bbc5-40cf-95b9-8baa1eeb9b06)
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@AhilDeglBeglC8CeglCeF8hlAeG8JeAgH)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@AhilDeglBeglC8CeglCeF8hlAeG8JeAgH)
 
 It's called a flat top overhang because the flat top TKI is the same shape, but built with ZJ instead:
 
 ![Flat top TKI](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/cf353ecf-e8be-4a95-bdbc-4166bda777ec)
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@Ahi0DeglBeBtg0Q4CeglCeBtR4RphlAezhQ4RpJeAg?H)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@Ahi0DeglBeBtg0Q4CeglCeBtR4RphlAezhQ4RpJeAg?H)
 
 To fill the fake Z, you need a 1-up in the correct spot. It's very similar to how you build a fake J from an S 1-up:
 
 ![Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/dc1335fd-3edc-4c00-a079-cbc6a8239be2)
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@BgglCexwDeglCeR4D8hlAeR4E8XexwGeilD8glBegl?F8glCeF8hlAeG8JeAgH)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@BgglCexwDeglCeR4D8hlAeR4E8XexwGeilD8glBegl?F8glCeF8hlAeG8JeAgH)
 
 The L 2-up can be used not only to make an overhang, but also to fix height difference. Most 2-up alt overhangs cannot do that; they force the overhang to be on the 7-wide stack.
 ### Z 1-up
@@ -279,12 +279,12 @@ The L 2-up can be used not only to make an overhang, but also to fix height diff
 This is one more 1-up. It doesn't occur in LSJZ, because it's only used for the flat top overhang.
 
 ![Z 1-up](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/726d2223-2e5b-46bf-bc1c-b1551e6e986c)
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@3gwwIewwHeBtEeA8CeBtDeB8AeG8JeAgH)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@3gwwIewwHeBtEeA8CeBtDeB8AeG8JeAgH)
 
 The easiest pattern for fake J is with an S piece, like this:
 
 ![ZS pattern](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/9abea529-ab0c-4164-9e81-b6d544e14f08)
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@3gQ4IeR4GeBtQ4DeA8CeBtDeB8AeG8JeAgH)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@3gQ4IeR4GeBtQ4DeA8CeBtDeB8AeG8JeAgH)
 
 It's not the only one, and I recommend not fixating on it too much. 
 
@@ -295,29 +295,29 @@ When you do a 2-up in this spot, the pattern becomes a similar shape to flat L 1
 
 Doing a 1-up in this spot makes a shape similar to 180 J/flat I. Another Z and an I piece are used as an example.
 
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@6fBtwwDeA8CeBtDeB8AeG8MeBtxwCeA8CeBtxwBeB8?AeG8MeBtzhAeA8CeBtDeB8AeG8JeAgH)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@6fBtwwDeA8CeBtDeB8AeG8MeBtxwCeA8CeBtxwBeB8?AeG8MeBtzhAeA8CeBtDeB8AeG8JeAgH)
 ![Z and 1-up](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/5680f3f2-36df-427a-bffe-6d1abf793dd1)
 
 If you place another Z piece like this, it becomes a fake S 1-up:
 
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@BhxwGeBtxwCeA8CeBtDeB8AeG8JeAgH)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@BhxwGeBtxwCeA8CeBtDeB8AeG8JeAgH)
 ![ZZ pattern](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/46553845-eeee-4310-b637-a9d348e29e14)
 
 ## Fonzie overhang
 
 This overhang can be seen in the Fonzie TKI variation. It's the Z 1-up, except used in a place where a 2-up is required:
 
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@EhA8BeA8BeBtAeE8CeBtF8AeG8JeAgH)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@EhA8BeA8BeBtAeE8CeBtF8AeG8JeAgH)
 ![Fonzie TKI](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/2995669d-6e75-40aa-a1a8-eb0f81a1755f)
 
 This overhang needs an S piece to become a proper 2-up.
 
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4CeR4DeR4AeR4EeA8Q4AeBtEeA8CeBtDeB8AeG8?JeAgH)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4CeR4DeR4AeR4EeA8Q4AeBtEeA8CeBtDeB8AeG8?JeAgH)
 ![ZS 2-up pattern](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/2db5071b-0e69-4812-9b56-4dcd5f495f26)
 
 However, this is rarely an option due to 7-bag. You can do it sometimes, but it's usually better if you don't, especially so for bag counting. Because of this, a fake S is almost always used instead.
 
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@7fwwHezhCeA8BeBtEeA8CeBtDeB8AeG8NewwHei0De?A8BeBtg0DeA8CeBtDeB8AeG8JeAgH)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@7fwwHezhCeA8BeBtEeA8CeBtDeB8AeG8NewwHei0De?A8BeBtg0DeA8CeBtDeB8AeG8JeAgH)
 ![Z and Fake S](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/609a3119-c898-4b44-862d-1f9234689d6e)
 
 You can also view these follow ups as doing a 180 J/flat I 1-up to turn the setup into a flat top overhang.
@@ -326,16 +326,16 @@ You can also view these follow ups as doing a 180 J/flat I 1-up to turn the setu
 
 Kazu overhang isn't called after the player, but after the opener it's used in, Kazu TKI/Kazu TSD. I could probably name it "S 2-up", but it would create confusion with the S 2-up used in LSJZ.
 
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@AhQ4FeglBeR4RpBtAeglCeQ4Rpg0BthlAezhi0JeAg?H)
-![Kazu TKI](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/62f86b14-61ed-4e15-838d-28c517e151a8)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@AhQ4FeglBeR4RpBtAeglCeQ4Rpg0BthlAezhi0JeAg?H)
+[Kazu TKI](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/62f86b14-61ed-4e15-838d-28c517e151a8)
 
 Kazu overhang needs a 2-up to be filled.
 
-![Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/8ab7ec7c-0e91-4ca9-a194-44d9b7f59571)
+[Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/8ab7ec7c-0e91-4ca9-a194-44d9b7f59571)
 
 Any 2-up you already know works:
 
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4CeRpDeR4AeQ4RpDeglQ4AeR4EeglCeQ4EehlAe?G8JeAgH3gQpwSHeRpg0qeAgH3gAPhlGeAPhHqeAgHugAtHe?hlgWGeglseAgHugAPDewDCewhAPDexDBewhwwEewDCewwhe?AgH)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4CeRpDeR4AeQ4RpDeglQ4AeR4EeglCeQ4EehlAe?G8JeAgH3gQpwSHeRpg0qeAgH3gAPhlGeAPhHqeAgHugAtHe?hlgWGeglseAgHugAPDewDCewhAPDexDBewhwwEewDCewwhe?AgH)
 ![Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/7aad74c4-e8a0-4d4c-aed3-c2ab1f91bbc1)
 
 # S and fake S overhangs
@@ -362,7 +362,7 @@ The finesse is DAS left, press and hold soft drop, DAS right, clockwise rotation
 
 It's very useful when following up the MKO opener.
 
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@sgzhD8DeG8CeG8BeH8AeI8AeG8JeAgHIfBtIeBtZgA?gHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgA?PAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gAPAeAt?HeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHkgglGeyhQ4GeA?PHeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtAeBPZgAg?HFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3eAgHqgBP?HeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1gBPAtReA?tjeAgHvhAAgHjgQ4wwGexwg0HeAPHeBPHeAPjeAgHIfBtIe?BtZgAgHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eA?gHpgAPAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gA?PAeAtHeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHjgxDGeRa?gWHeAPgWGeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtA?eBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3e?AgHqgBPHeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1g?BPAtReAtjeAgHvhAAgH)
+[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@sgzhD8DeG8CeG8BeH8AeI8AeG8JeAgHIfBtIeBtZgA?gHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgA?PAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gAPAeAt?HeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHkgglGeyhQ4GeA?PHeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtAeBPZgAg?HFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3eAgHqgBP?HeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1gBPAtReA?tjeAgHvhAAgHjgQ4wwGexwg0HeAPHeBPHeAPjeAgHIfBtIe?BtZgAgHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eA?gHpgAPAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gA?PAeAtHeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHjgxDGeRa?gWHeAPgWGeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtA?eBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3e?AgHqgBPHeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1g?BPAtReAtjeAgHvhAAgH)
 
 Also, instead of executing the S/Z T spin, you can build an L/J T spin on top, then clear it, and only then tuck the Z piece. This setup is called a "delayed fractal". Below a Z overhang is used, but you can really use an S overhang as well.
 
