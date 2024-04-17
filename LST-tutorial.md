@@ -4,9 +4,9 @@ LST is a guideline 2-7 stacking strategy that can efficiently output a B2B T-spi
 
 https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/21475df2-c5d5-47a5-bead-6379696b5f44
 
-LST is also good to use as a stacking exercise to polish your fundamentals, since it requires you to use your queue very efficiently to sustain it for long. Mirrored 7-2 stacking, is called "JZT". You should practice both to reduce any awkwardness.
+LST is also good to use as a stacking exercise, since it requires you to use your queue very efficiently to sustain it for long. JZT is its mirrored version, a 7-2 stack. You should practice both to reduce any awkwardness.
 
-I recommend reading this guide in chunks, and to practice one concept at a time. Learning all of LST and its nuances is hard to grasp in one session. (Editor note: this advice should be applied to learning anything. "Chunking" is a very potent learning strategy, and giving your brain time to process things is crucial for learning). Another good learning/gaming habits are taking short breaks every 20-25 minutes, and doing replay reviews. Both will 
+I recommend reading this guide in chunks, and to practice one concept at a time. Learning all of LST and its nuances is hard to grasp in one session. (Editor note: this advice should be applied to learning anything. "Chunking" is a very potent learning strategy, and giving your brain time to process things is crucial for learning). Another good learning/gaming habits are taking short breaks every 20-25 minutes, and doing replay reviews.
 
 First and foremost, LST is about preventing bad board states altogether, and there's little to no leeway for mistakes or fixing them. This makes LST very very challenging to learn. It requires good stacking fundamentals and being able to visualize 3 pieces at the same time.  If you don't have that ability, you can just start doing LST and "grow into it" with practice, but there's no guarantee of success. I also suggest becoming familiar with [what T spins are and how to build them](https://www.youtube.com/watch?v=FI39WJqTLvA&pp=ygUXZ2FyYm8ncyB0IHNwaW4gdHV0cm9pYWw%3D).
 
@@ -30,20 +30,20 @@ Try not to waste T pieces in the stack. For reasons including: it'll tank your t
 
 Sometimes, when the queue allows it, you can put both L and J overhangs at the same time, and then an S or Z overhang. This makes a fractal, a very useful setup for spiking.
 
-Fractal](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/d535aff4-9517-4ec5-8e11-e0f63efa0d9e)
-](https://knewjade.github.io/fumen-for-mobile/#?d=v115@ZgAtHeBtEeglBeAtg0E8glCeg0E8hlAeh0E8Q4CeAt?E8R4AeBtE8glQ4AeAtg0E8JeAgH)
+![Fractal](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/d535aff4-9517-4ec5-8e11-e0f63efa0d9e)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@ZgAtHeBtEeglBeAtg0E8glCeg0E8hlAeh0E8Q4CeAt?E8R4AeBtE8glQ4AeAtg0E8JeAgH)
 
 A somewhat common beginner mistake is trying to make a fractal with S/Z on top of L/J, like this:
 
-Magic key imperial cross](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/6f50235c-7f0b-452f-b245-90a1e8bf7410)
-](https://knewjade.github.io/fumen-for-mobile/#?d=v115@VgglIeglIehlHeQ4CeAtE8R4AeBtE8glQ4AeAtg0E8?glCeg0E8hlAeh0E8JeAgH)
+![Magic key imperial cross](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/6f50235c-7f0b-452f-b245-90a1e8bf7410)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@VgglIeglIehlHeQ4CeAtE8R4AeBtE8glQ4AeAtg0E8?glCeg0E8hlAeh0E8JeAgH)
 Unfortunately, you can't build a fractal that way, the only fractal you can make is L/J on top of S/Z.
 
 ## Prestacking overhangs
 
 You can keep adding overhangs to a single side instead of placing the pieces into the stack.  It should look like this:
 
-Prestacking overhangs](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/b9632abf-cf74-4f77-8277-53508451627b)
+![Prestacking overhangs](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/b9632abf-cf74-4f77-8277-53508451627b)
 ![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@BgQ4IeR4HeglQ4HeglIehlHeQ4IeR4HeglQ4Beg0E8?glCeg0E8hlAeh0E8JeAgH)
 
 This should give you some flexibility when playing, since you now have one more stacking option to consider. However, don't overdo it; more than 2 prestacked overhangs is too much and is very risky, especially in versus.
@@ -90,47 +90,31 @@ Instead of using two S or two Z pieces, you can use two I pieces instead. Like t
 The first advantage of it is that you can place one i piece before the T spin is executed without it affecting the T slot access. Thus, you don't need to have an I piece in hold, you can simply place it right away, like this:
 
 ![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/15e73a8f-ef75-4db1-a4ef-337b3b81ddca)
-![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@fgQ4CewhEeR4BewhEeR4BewhEeR4BewhEeglQ4Beg0?EeglCeg0E8hl!Aeh0E8JeAgH)
-
-The other advantage is that it can not only replace the ZZ double up, but also the SS double up:
-
 ![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/d15efb5f-f34f-45cb-9b58-0d754eba68b0)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@fgQ4CewhEeR4BewhEeR4BewhEeR4BewhEeglQ4Beg0?EeglCeg0E8hl!Aeh0E8JeAgH)
 ![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@Fgg0Ieg0Heh0EewhCeAtEewhBeBtEewhBeBtEewhBe?BtEeglBeAtg0EeglCeg0E8hlAeh0E8JeAgH)
 
 This makes it more flexible to use than SS or ZZ, with the only caveat being that you can't use vertical I pieces as the overhang.
 
 ### OL/JI double up
 
-With the OL double up, one side has an O piece overhang. After the T spin is executed, the other side gets an O piece as well. Afterwards, place L and J on the O pieces like usual.
+With the OL double up, one side has an O piece overhang.
 
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/30dc1053-d5b6-4308-9c4d-de3fbdf20247)
+![OL/JI](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/3c25cc6a-342b-402c-a0d3-d1426910df6e)
 ![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@HhQ4CeAtE8R4AeBtE8glQ4AeAtg0E8JeAgHvhDAgHT?6IAgHFFJzgRpHeRpHeAtwSBeAtE8BtAeBtE8TeFFJvhIAgH?AgHzFJAgHe8IAgHK6IAgHAgH)
+
+After the T spin is executed, the other side gets an O piece as well. Afterwards, place L and J on the O pieces like usual.
 
 The JI and LI double ups are the same shapes as OL and OJ double ups respectively.
 
 ![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/093edcb6-5155-4da7-9cd0-bb729944c83d)
 ![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@vfwhCeg0EewhCeg0Eewhg0Aeh0Eewhg0AeRpEeh0Ae?RpYeglCewhEeglCewhEehlAeglwhEeRpAeglwhEeRpAehlL?eA8AgH)
 
-## Basic bag counting (optional to learn)
-
-There's a basic bag counting rule when it comes to LSJZ: using a Z overhang gives you an S piece to put on the stack, and vice versa.
-
-Take a look at Reliable TSD and flat top TKI. Both openers are 7-2, meaning that they're similar to LST stacking:
-
-![Reliable TSD](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/e5d4203f-5ae3-4764-b90e-476885cae11a)
-![TKI](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/8cbbda6b-f54c-4090-b461-6ed1c34d34db)
-
-However, there's one major difference between the two. Flat top TKI uses a Z overhang, while Reliable TSD uses an S overhang. Just like the bag counting rule says, TKI has an S piece in the stack, and Reliable has a Z piece in the stack.
-
-If you use the bag counting rule, you can expand your thinking beyond the queue. You can build reliable TSD if the queue is LIJSO, because you know that you have an upcoming Z piece left in the bag. If you practice enough, this method of thinking can be used even in midgame. You can apply the rule to L and J pieces as well.
-
-When you have a Z dependency in the stack, or if a Z piece is just more convenient than the S piece, use an S overhang, and vice versa.
-
 # Alt 1-up overhangs
 
 It's "one up", not "level up", by the way.
 
-Overstacking is what happens when you don't double up enough. Your stack becomes higher and higher than LSJZ as time passes, and eventually you top out. While overstack isn't usually dangerous in Ultra and Blitz, it is dangerous in VS Tetris because you are vulnerable to spikes. LSJZ pretty much requires you to have some overstack. This is the reason people have to use TKI to open LST; with an empty board you have no overstack to make LSJZ work.
+Firstly, before we talk about alternative overhangs, we have to discuss overstacking. Overstacking is what happens when you don't double up enough. Your right side stack becomes higher and higher than your left LSJZ as time passes, and eventually you top out. While overstack isn't usually dangerous in Ultra and Blitz, it is dangerous in VS Tetris because you are vulnerable to spikes. LSJZ pretty much requires you to have some overstack. This is the reason people have to use TKI to open LST; with an empty board you have no overstack to make LSJZ work.
 
 A skilled LST user will always have very little overstack, keeping their board very flat. As a result, they have less opportunity to use LSJZ, but a flatter board lets them LST stack while using other pieces instead of JZ to make up for it. It also gives them more freedom when stacking compared to an LSJZ user, which makes fixing mistakes easier. Using alternative overhangs also lets you save I pieces in order to spike or go down.
 
@@ -143,7 +127,7 @@ They're referred to as 1-ups, 2-ups, et cetera. The idea of overhang height is t
 
 Every 1-up and 2-up other than JZ requires a follow up, because they don't make the J or Z piece completely. Due to how many variations there is to doing it, some call it "freestyling". 1-ups that use a Z overhang are often called "fake J setups", because they're really just replacing a vertical J overhang with the same overhang built with different pieces.
 
-For example, these two are the same shape that you probably used it when solving PCO:
+For example, these two are the same shape that you probably used when solving PCO:
 
 ![IO and JL congruents](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/700555bc-02b1-4c1e-947a-753c7674a5c0)
 ![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@VgglCeRpDeglCeRpDehlAezhWeglCeg0glDeglCeg0?glDehlAeh0hlMeAgH)
@@ -162,7 +146,7 @@ With a single piece, those grey blocks can only be filled these ways:
 
 Note that you need to have something underneath L and Z pieces to make this work. You want to be extra careful with the L pattern, because you also need an L piece on the 2w. The Z pattern uses a Z piece, so having an S overhang is advised.
 
-If you look closely, they're 2-up overhangs, just not used as a T spin overhang. You should at least notice the Z 2-up overhang standing there. Once you learn more about 2-up overhangs, come back here to be amazed.
+If you look closely, they're 2-up overhangs, just not used as a T spin overhang. Once you learn more about 2-up overhangs, come back here to be amazed.
 
 ## Flat L 1-up
 
@@ -326,16 +310,20 @@ You can also view these follow ups as doing a 180 J/flat I 1-up to turn the setu
 
 Kazu overhang isn't called after the player, but after the opener it's used in, Kazu TKI/Kazu TSD. I could probably name it "S 2-up", but it would create confusion with the S 2-up used in LSJZ.
 
-[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@AhQ4FeglBeR4RpBtAeglCeQ4Rpg0BthlAezhi0JeAg?H)
-[Kazu TKI](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/62f86b14-61ed-4e15-838d-28c517e151a8)
+![Без названия](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/befcb9e4-fe8f-409c-b7d3-0fc0e27d02b6)
+
+^ Kazu overhang vs S overhang
+
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@AhQ4FeglBeR4RpBtAeglCeQ4Rpg0BthlAezhi0JeAg?H)
+![Kazu TKI](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/62f86b14-61ed-4e15-838d-28c517e151a8)
 
 Kazu overhang needs a 2-up to be filled.
 
-[Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/8ab7ec7c-0e91-4ca9-a194-44d9b7f59571)
+![Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/8ab7ec7c-0e91-4ca9-a194-44d9b7f59571)
 
 Any 2-up you already know works:
 
-[](https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4CeRpDeR4AeQ4RpDeglQ4AeR4EeglCeQ4EehlAe?G8JeAgH3gQpwSHeRpg0qeAgH3gAPhlGeAPhHqeAgHugAtHe?hlgWGeglseAgHugAPDewDCewhAPDexDBewhwwEewDCewwhe?AgH)
+![](https://knewjade.github.io/fumen-for-mobile/#?d=v115@zgQ4CeRpDeR4AeQ4RpDeglQ4AeR4EeglCeQ4EehlAe?G8JeAgH3gQpwSHeRpg0qeAgH3gAPhlGeAPhHqeAgHugAtHe?hlgWGeglseAgHugAPDewDCewhAPDexDBewhwwEewDCewwhe?AgH)
 ![Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/7aad74c4-e8a0-4d4c-aed3-c2ab1f91bbc1)
 
 # S and fake S overhangs
@@ -354,7 +342,7 @@ Any 2-up you already know works:
 
 ## Tucking the Z overhang
 
-You can prestack a 1-up overhang and then tuck a Z piece underneath. Vertical J is the only overhang that doesn't allow it
+You can prestack a 1-up overhang and then tuck a Z piece underneath.
 
 The finesse is DAS left, press and hold soft drop, DAS right, clockwise rotation, release soft drop.
 
@@ -364,7 +352,7 @@ It's very useful when following up the MKO opener.
 
 [](https://knewjade.github.io/fumen-for-mobile/#?d=v115@sgzhD8DeG8CeG8BeH8AeI8AeG8JeAgHIfBtIeBtZgA?gHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgA?PAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gAPAeAt?HeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHkgglGeyhQ4GeA?PHeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtAeBPZgAg?HFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3eAgHqgBP?HeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1gBPAtReA?tjeAgHvhAAgHjgQ4wwGexwg0HeAPHeBPHeAPjeAgHIfBtIe?BtZgAgHFfBtAeBPFeBtAeBPZgAgHFfBPIeBPWfBtIeBt4eA?gHpgAPAeAtHeAPAeAt3eAgHqgBPHeAtAeAPHeBtteAgH0gA?PAeAtHeAPAeAtseAgH1gBPAtReAtjeAgHvhAAgHjgxDGeRa?gWHeAPgWGeBPHeAPjeAgHIfBtIeBtZgAgHFfBtAeBPFeBtA?eBPZgAgHFfBPIeBPWfBtIeBt4eAgHpgAPAeAtHeAPAeAt3e?AgHqgBPHeAtAeAPHeBtteAgH0gAPAeAtHeAPAeAtseAgH1g?BPAtReAtjeAgHvhAAgH)
 
-Also, instead of executing the S/Z T spin, you can build an L/J T spin on top, then clear it, and only then tuck the Z piece. This setup is called a "delayed fractal". Below a Z overhang is used, but you can really use an S overhang as well.
+Also, instead of executing the S/Z T spin, you can build an L/J T spin on top, then clear it, and only then tuck the Z piece. This setup is called a "delayed fractal".
 
 ![Untitled](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/5d7e328c-5b9f-49b2-980c-238835f8c1b7)
 
