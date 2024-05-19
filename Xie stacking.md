@@ -133,3 +133,7 @@ You should really come up with your own though. Some of these are very inefficie
 ## But what if I don't know LST?
 
 I've been typing this document for 3 hours straight, I'll get RSI if I continue. I'll probably explain when I get back to this document (probably never because I often forget)
+
+# Summary
+
+Xie stacking is when you stack a 1-residue 4-wide in columns 3, 4, 5, 6, and stack 4x4 boxes in column 7, 8, 9, 10
