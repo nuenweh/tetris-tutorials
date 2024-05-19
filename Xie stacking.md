@@ -1,4 +1,4 @@
-# Xie stacking for LST players
+# How to stack like Xie
 
 Hi. I apologize in advance for being bad at explaining things.
 
@@ -21,19 +21,21 @@ How is this board state any different from the ones on four.lol? The answer is r
 If you asked me about Xie stacking recently, I probably yapped to you about residue, but never properly explained what it is and how it is defined. When I talk about residue, what I truly mean is the extra blocks on top of a box shape. Any box shape works,
 it doesn't matter what width and height it is. Here are a few examples, the grey part is the box and the colorful parts are the residue.
 
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/46b25419-540d-4ac2-9ebd-1fb4a3bd1f10)
+![Без названия (9)](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/ad58a5a6-516f-4072-9bcc-219644f2b575)
 
-This is an 8-wide stack with a 5 block residue.
+Pic above is an 8-wide stack with a 5 block residue.
 
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/b7db83ba-d9ee-4c1f-9af8-511f9ab089a6)
+![Без названия (10)](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/dbacac25-1432-4a97-bb5b-2fd0c1df2e8e)
 
-This is a 6-wide stack with a 2 block residue
+6-wide stack with a 2 block residue
 
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/722af9cc-25b0-4e52-9555-fbb21eb3d396)
+![Без названия (11)](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/3860f187-ab76-4b93-9170-50fe74d5372d)
 
-This is a 9-wide stack with a 12 block residue
 
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/8580d254-7f25-48de-8e37-c7ce56708094)
+9-wide stack with a 12 block residue
+
+![Без названия (12)](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/d9a08428-b8da-490f-9bf6-c63fabe5ff7c)
+
 
 And lastly, a 2w with 2 block residue and a 7w with a 13 block residue
 
@@ -53,20 +55,20 @@ Now that you know that, you can make up your own 4-wide openers. You don't need 
 
 A "real" stack is one that is separated from other stacks by a well. The obvious example is the quad wells; when you say "2-7" or "5-4", you are mentioning the width of two real stacks. If you say 3-3, for example, it means that you have a 3-wide stack and another 3-wide stack separated by a well, usually you'd mean the center 4-wide combo in that case. A rare case of skill issue can lead you into this kind of stack:
 
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/4036f644-8496-4449-b2ac-791d9254c03e)
+![Без названия (13)](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/32579eec-d0e0-46cb-b336-c9e2f6af3dca)
 
-I consider this matrix as having two real stacks: a 7-wide and a 2-wide, because there's really no way you'll be placing a single piece on both of them at the same time.
+I consider this matrix as having two real stacks: a 7-wide and a 2-wide, because there's really no way you'll be placing a single piece on both of them at the same time. The only way to go back to a 9-wide stack is to stack up on the 2-wide stack with Z and T pieces until it's flatter. In a Kezdabez video on stacking, he tells you to stack up at the lowest part of your stack. This is actually done to have one wide stack instead of two or three narrow stacks, because wider stacks have more options.
 
 Sometimes, we don't have a real separation between stacks, but it's easier to think for us that they're separated. For example, an ST stack can have this kind of board state:
 
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/36829737-1a9c-4a4e-a3d2-3b66bc816e78)
+![Без названия (14)](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/87e7ed16-d784-43eb-b7da-c2b1a08296fc)
 
-If you understand everything so far, you'll see it as a 7-wide stack with 2 block residue. But in the mind of an ST stacker, it's still a 4-wide stack with 2 residue and a 3-wide stack with 0 residue (i.e. it's entirely flat). That's what I call a logical stack
+If you understand everything so far, you'll see it as a 7-wide stack with 2 block residue (highlighted in yellow). But in the mind of an ST stacker, it's still a 4-wide stack with 2 residue and a 3-wide stack with 0 residue (i.e. it's entirely flat). That's what I call a logical stack
 separation - there's no wall, they're equal in height, and there is no well of any width between them - but we still separate them as if there's an invisible wall that must not be touched. Most ST stackers will always adhere to the following separation, and they will always make it work:
 
 ![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/502781c4-4f06-4d80-ba5f-9a01989b440d)
 
-Another example is in how most people describe the 6-wide stack of a 6-3 sprint. Separating it into "here goes O pieces, here goes S pieces, here goes Z pieces". We still have L, J, I, T pieces to place on the 6-wide, but people don't mention them. You can watch
+Another example is in how most people describe the 6-wide stack of a 6-3 sprint. Separating it into "here goes O pieces, here goes S pieces, here goes Z pieces". You can watch
 a sprint run where the separation is never broken in this sprint run by MAXICUBI.
 
 https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/5a71969d-6dff-4fd0-9439-c559f8d8c03c
@@ -82,6 +84,8 @@ When most people try to explain Xie stacking, they see the obvious stuff - there
 This is not entirely wrong, but those are not the logical stacks that Xie uses in his runs. His logical stacks are actually a 1-res 2-wide, and a 1-res 4-wide. If you were to draw an imaginary line in between them, this would be it
 
 ![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/2736fb60-090b-4b0d-b2f1-1502bf1b2203)
+
+And the stack is always separated in this specific way. The 4-wide can never be to the left of the 2-wide.
 
 Technically, after placing one piece in the 4-wide, it becomes a 5-res most of the time, but for simplicity's sake, I call it a 1-res.
 
