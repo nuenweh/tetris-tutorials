@@ -138,6 +138,12 @@ You should really come up with your own though. Some of these are very inefficie
 
 I've been typing this document for 3 hours straight, I'll get RSI if I continue. I'll probably explain when I get back to this document (probably never because I often forget)
 
+## Example run
+
+I've been told there's nothing to say about it, and that simply recording it will be enough. I was going to record a commentary video, but I don't know what to say at all about this run. I could come up with ways to get less KPP, but it won't teach anyone how to keep a 1-res stack
+
+https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/2618662f-867a-4e43-885c-db525c15ead2
+
 # Summary
 
 Xie stacking is when you stack a 1-residue 4-wide in columns 3, 4, 5, 6, and stack 4x4 boxes in column 7, 8, 9, 10
