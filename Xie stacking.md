@@ -27,7 +27,6 @@ This is an 8-wide stack with a 5 block residue.
 
 ![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/b7db83ba-d9ee-4c1f-9af8-511f9ab089a6)
 
-
 This is a 6-wide stack with a 2 block residue
 
 ![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/722af9cc-25b0-4e52-9555-fbb21eb3d396)
@@ -41,15 +40,22 @@ And lastly, a 2w with 2 block residue and a 7w with a 13 block residue
 ## What makes 4-wide combo possible to combo...
 
 ...is the 3-block residue that your 4-wide well has. It is at the very bottom of the matrix, but nonetheless, it's still a 4-wide stack with a 3-residue in it.
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/a3dfb9f2-d354-4ac4-820f-69f684a52963)
 
-Now that you know that, you can make up your own 4-wide openers. You don't need a flat Z or T specifically, you just need to make sure that your opener adds those 3 blocks of residue to the 4-wide. You do this by having any 3 blocks of a piece inside the 4-wide, and one block on one of the sides:
+![Без названия (2)](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/488585e8-2972-4f18-bf07-3964304c4ca4)
 
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/52b440d0-38aa-45ad-8d4f-db28c4f6bcef)
+
+Now that you know that, you can make up your own 4-wide openers. You don't need a flat Z or T specifically, you just need to make sure that your opener adds those 3 blocks of residue to the 4-wide. You do this by having any 3 blocks of a piece inside the 4-wide, and one block on one of the sides. The part of the piece that becomes the 3 block residue is highlighted with a different color.
+
+![Без названия](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/fbad7801-4a88-4a83-b939-f46cb28c331a)
+
 
 ## Real vs logical stacks
 
-A "real" stack is one that is separated from other stacks by a well. The obvious example is the quad wells; when you say "2-7" or "5-4", you are mentioning the width of two real stacks. If you say 3-3, for example, it means that you have a 3-wide stack and another 3-wide stack separated by a well, usually you'd mean the center 4-wide combo in that case.
+A "real" stack is one that is separated from other stacks by a well. The obvious example is the quad wells; when you say "2-7" or "5-4", you are mentioning the width of two real stacks. If you say 3-3, for example, it means that you have a 3-wide stack and another 3-wide stack separated by a well, usually you'd mean the center 4-wide combo in that case. A rare case of skill issue can lead you into this kind of stack:
+
+![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/4036f644-8496-4449-b2ac-791d9254c03e)
+
+I consider this matrix as having two real stacks: a 7-wide and a 2-wide, because there's really no way you'll be placing a single piece on both of them at the same time.
 
 Sometimes, we don't have a real separation between stacks, but it's easier to think for us that they're separated. For example, an ST stack can have this kind of board state:
 
@@ -65,7 +71,7 @@ a sprint run where the separation is never broken in this sprint run by MAXICUBI
 
 https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/5a71969d-6dff-4fd0-9439-c559f8d8c03c
 
-Very few people actually stack this way, but they will still see the stack as a set of three 2-wide stacks, one with no residue and two with 1 residue each.
+Very few people actually stack this way, but they will still see the stack as a set of three 2-wide stacks, one with no residue and two with 1 residue each for S and Z pieces.
 
 ## So how does this all relate to Xie stacking?
 
@@ -79,17 +85,51 @@ This is not entirely wrong, but those are not the logical stacks that Xie uses i
 
 Technically, after placing one piece in the 4-wide, it becomes a 5-res most of the time, but for simplicity's sake, I call it a 1-res.
 
+## Why focus on 1-res?
+
+A 1-res (from now on it's implied that it's the 4-wide residue) is crucial to Xie stacking. First of all, your only other option is a 3-res. If you only stick to 1-res stacking, you will only need to remember half of the stacking patterns a 6-3 stack needs.
+
+Second of all, it's a lot more efficient than 3-res when it comes to how many inputs you need
+
+Third of all, it's just a nicer board state than a 3-res most of the time.
+
 ## How do you actually Xie stack?
 
-You start by creating that one block residue, and from there, you simply stack the 4-wide flat like any other stack, while using the 1-res 2-wide as a place for Ts, Zs, and Ss.
+You start by creating the one block residue, and from there, you simply stack the 4-wide flat like any other stack, while using the 1-res 2-wide as a place for Ts, Zs, and Ss.
 
-Really the only way to do that is with a T or a J, which is an opener I'm sure all of you know about
+Really the only way to do that is with a T, J, or vertical L, which are the openers I'm sure you all know about
 
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/fba34401-f829-4c6c-ae6d-e222edf0f46f)
-
+![Без названия (3)](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/341b07b7-44d8-4590-8108-6f564a29e8db)
 
 You can also try to build a 5-res stack. The simplest way to do it is 
 
-![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/44e1d888-6192-4c40-b942-9e6d5f6d9869) ![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/20240cad-fedd-4ea8-a9f5-c28d54a23406)
+![Без названия (4)](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/408e9c08-2768-49a3-a3e4-eac037e8b01e)
 
+You choose how you want to stack the 4-wide, there are no limitations. When you do 6-3, there's enough freedom to really limit yourself in stacking, be it avoiding double taps, only placing I pieces in 3rd and 7th columns, or whatever else you come up with. Those kinds of limitations you place on yourself will further reduce how many patterns you need to hold in your head while possibly reducing KPP or MKPP (i.e. will let your hands go faster). With that in mind, maxicube's run you saw earlier is technically Xie stack where they choose to extremely reduce patterns while damaging their KPP.
 
+## How do you NOT Xie stack?
+A common mistake is switching to a 3-res 4-wide by accident. Here is how you do it:
+
+![Без названия (6)](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/2ef7f839-30e6-46da-b0df-da1b751de525)
+
+However, there's good new too. These same patterns can be used to go back from a 3-res to a 1-res. For example, if you place a flat I piece and follow it up with a tapback flat T piece, you actually get a 1-res.
+
+![Без названия (7)](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/90eb8f27-6bb2-44fc-b908-3254ba7cbeb0)
+
+## I want more freedom/less kpp
+
+Then you have to deal with the fact you will need to learn more patterns, and that most likely means slower improvement times. The secret to it is to treat the leftmost three columns as a 3-wide where you need to choose patterns carefully.
+Take a look at this shape here:
+
+![image](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/23b8c06a-ca17-448d-9a41-a11c3f2e5577)
+
+If you look closely, you are placing five monominos in column 3. In LST terms, this is a 5-up, and if you know LST, you can probably already think of 10-20 ways of doing it. Columns 1 and 2 really don't matter; as long as column 3 gets 1, 5, or 9 monominos, you're getting a 1-res stack.
+Examples:
+
+![Без названия (8)](https://github.com/strawberrymilk1134/tetris-tutorials/assets/57014208/104d6acf-1fe5-4637-920e-5c4d4b31d479)
+
+You should really come up with your own though. Some of these are very inefficient in KPP, some are equal. The only patterns that actually reduce your kpp are LOJ, JZJ, LSL, IOO boxes with a T piece on top, and they probably won't make you faster without DAS preservation because the MKPP is equal without it
+
+## But what if I don't know LST?
+
+I've been typing this document for 3 hours straight, I'll get RSI if I continue. I'll probably explain when I get back to this document (probably never because I often forget)
